@@ -19,6 +19,6 @@
 
 ## 
 
-<h3 align="left">Технологии</h3>
+<h3 align="left">✨ Технологии</h3>
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=reactjs,javascript,html,vite,css,figma,nodejs"><img>
 
