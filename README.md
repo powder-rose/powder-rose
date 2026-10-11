@@ -30,7 +30,7 @@
 <img src="https://skills.syvixor.com/api/icons?i=reacthookform,reactjs,nodejs,html,css,vite,expressjs,figma,git,python,sass,less&perline=12&radius=40" alt="Skill Icons" />
 
 
-## ✦ Избранные проекты
+##✨ Избранные проекты
 
 | 🛡️ Security Passport | 📄 BoykovDocs |
 | :--- | :--- |
