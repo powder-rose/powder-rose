@@ -29,8 +29,10 @@
 <h3 align="left">✨ Технологии</h3>
 <img src="https://skills.syvixor.com/api/icons?i=reacthookform,reactjs,nodejs,html,css,vite,expressjs,figma,git,python,sass,less&perline=12&radius=40" alt="Skill Icons" />
 
-##✨ Избранные проекты
+##
 
+<h3>✨ Избранные проекты
+</h3>
 Немного того, над чем я работаю: от интерфейсов до полноценных веб-приложений и автоматизации.
 
 <table>
