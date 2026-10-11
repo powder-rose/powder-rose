@@ -20,5 +20,5 @@
 ## 
 
 <h3 align="left">✨ Технологии</h3>
-<img src="https://skills.syvixor.com/api/icons?perline=15&i=reactjs,javascript,html,vite,css,figma,nodejs,sass,git(https://skills.syvixor.com/api/icons?i=reacthookform,reactjs,nodejs,html,css,vite,expressjs,figma,git,python,sass,less&perline=12&radius=40)"><img>
+<img src="https://skills.syvixor.com/api/icons?i=reacthookform,reactjs,nodejs,html,css,vite,expressjs,figma,git,python,sass,less&perline=12&radius=40" alt="Skill Icons" />
 
