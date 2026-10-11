@@ -29,3 +29,13 @@
 <h3 align="left">✨ Технологии</h3>
 <img src="https://skills.syvixor.com/api/icons?i=reacthookform,reactjs,nodejs,html,css,vite,expressjs,figma,git,python,sass,less&perline=12&radius=40" alt="Skill Icons" />
 
+
+## ✦ Избранные проекты
+
+| 🛡️ Security Passport | 📄 BoykovDocs |
+| :--- | :--- |
+| Production-сайт с административной панелью, блогом и SEO-автоматизацией. | Веб-платформа для работы с инструкциями по охране труда и AI-генерации документов. |
+| `React` `Express` `SSR` `Vite` | `React` `Node.js` `Express` `AI` |
+| [GitHub ↗](https://github.com/powder-rose/Security-Passport) · [Сайт ↗](https://pasport-bezopasnosty.ru) | [GitHub ↗](https://github.com/powder-rose/BoykovGroup-instructions) · [Сайт ↗](https://boykovdocs.ru) |
+  
+
