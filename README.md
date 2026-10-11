@@ -52,20 +52,6 @@
   <a href="https://github.com/powder-rose/BoykovGroup-instructions">Код ↗</a> · <a href="https://boykovdocs.ru">Сайт ↗</a>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/powder-rose/PUDRA-Shop"><img src="./assets/projects/pudra-shop.png" alt="PUDRA-Shop — концептуальная обложка проекта" width="100%"></a>
-  <h3>PUDRA-Shop</h3>
-  Учебный проект интернет-магазина косметики.
-  <p><a href="https://github.com/powder-rose/PUDRA-Shop">Код ↗</a></p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/powder-rose/Zenbot"><img src="./assets/projects/zenbot.png" alt="Zenbot — концептуальная обложка проекта" width="100%"></a>
-  <h3>Zenbot</h3>
-  Бот для автоматизации задач, связанных с Яндекс Дзеном.
-  <p><a href="https://github.com/powder-rose/Zenbot">Код ↗</a></p>
-</td>
-</tr>
 </table>
 
 
